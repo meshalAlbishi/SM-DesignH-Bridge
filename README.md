@@ -32,7 +32,7 @@ Format of Parts -> name - (QTY)
   - Output 2 connected to the Terminal 2
 
 ## Preview
-available to demo from Tinkercad form [here](https://www.tinkercad.com/things/7sZ4he32csg-2-dc-with-h-bridge).
+available to demo from Tinkercad form [here](https://www.tinkercad.com/things/7sZ4he32csg).
 
 
 ![](https://github.com/meshalAlbishi/SM-DesignH-Bridge/blob/main/circuit.jpg)
