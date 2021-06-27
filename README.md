@@ -13,8 +13,26 @@ Format of Parts -> name - (QTY)
 4. 9V Battery (1).
 5. breadboard (1).
 
+## Connecting Parts
+
+### L293D To the Arduino
+- input 1 connected to pin 11.
+- input 2 connected to pin 10. 
+- input 3 connected to pin 9.
+- input 4 connected to pin 8.
+- enable 1,2,3, and 4 connected to the + power.
+
+### L293D To the Motor
+  #### Motor 1
+  - Output 3 connected to the Terminal 2
+  - Output 4 connected to the Terminal 1
+
+  #### Motor 2
+  - Output 1 connected to the Terminal 1
+  - Output 2 connected to the Terminal 2
 
 ## Preview
 available to demo from Tinkercad form [here](https://www.tinkercad.com/things/7sZ4he32csg-2-dc-with-h-bridge).
 
-![]()
+
+![](https://github.com/meshalAlbishi/SM-DesignH-Bridge/blob/main/circuit.jpg)
